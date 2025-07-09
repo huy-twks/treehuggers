@@ -1,0 +1,20 @@
+{
+  "name": "treehuggers",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "setup:local": "./scripts/setup-local.sh"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/huy-twks/treehuggers.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/huy-twks/treehuggers/issues"
+  },
+  "homepage": "https://github.com/huy-twks/treehuggers#readme"
+}
